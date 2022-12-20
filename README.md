@@ -1,0 +1,2 @@
+# kasa-paskaa
+Ohjelmst tallessa
